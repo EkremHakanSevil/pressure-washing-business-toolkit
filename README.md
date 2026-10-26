@@ -8,6 +8,8 @@ An 8-tab Excel / Google Sheets workbook for pressure washing and soft washing bu
 
 ![Pressure Washing Business Toolkit](screenshots/01_hero.jpg)
 
+🎬 **[Watch the 13-second product video](video/product_video.mp4)**
+
 ## Features
 
 - **Quote Calculator** – services, quantities and distance in; customer price out, with minimum charges, travel fee beyond a free radius, discount, tax, deposit, and a copy-ready quote message
